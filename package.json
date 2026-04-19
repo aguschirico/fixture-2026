@@ -3,6 +3,17 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "Mundial 2026 — Fixture interactivo con prode y sync P2P via Nostr",
+  "license": "GPL-3.0-or-later",
+  "author": "Augusto Chirico <aguschirico@gmail.com>",
+  "homepage": "https://github.com/aguschirico/fixture-2026",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguschirico/fixture-2026.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aguschirico/fixture-2026/issues"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
